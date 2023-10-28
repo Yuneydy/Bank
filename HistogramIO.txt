@@ -1,0 +1,36 @@
+Printing the Histogram from file 'integerData1.txt'
+Initial Data (14 integers):
+12 19 0 58 51 12 24 27 1 57 57 22 28 28 
+******* Results *******
+Range 0-9(2)  |++
+
+Range 10-19(3)  |+++
+
+Range 20-29(5)  |+++++
+
+Range 30-39(0)  |
+
+Range 40-49(0)  |
+
+Range 50-59(4)  |++++
+
+Printing the Histogram from file 'randomValues.txt'
+Initial Data (8 integers):
+7 0 12 24 37 49 30 47 
+******* Results *******
+Range 0-9(2)  |++
+
+Range 10-19(1)  |+
+
+Range 20-29(1)  |+
+
+Range 30-39(2)  |++
+
+Range 40-49(2)  |++
+
+Testing Exceptions:
+Problem with reading from loser.txt
+Cannot print from non-existent file.
+Printing the Histogram from file 'loser.txt'
+Initial Data (0 integers):
+

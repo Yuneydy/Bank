@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HistogramIO
+comment0.text=\r\n\ Creates\ a\ histogram\ based\ on\ a\ file\ input.\ Takes\ the\ file\ name\ as\ a\ string\ and\ then\ reads\ the\ file\ to\ initialize\ the\ \r\n\ instance\ variables.\ Values\ are\ then\ used\ to\ compute\ frequencies\ and\ create\ a\ histogram\ with\ "+"\ symbols\ representing\ each\ data\ \r\n\ point.\r\n\ \r\n\ @author\ Yuneydy\ and\ Lily\ \r\n\ @version\ 10/23/2023\r\n
+comment1.params=inputFile
+comment1.target=HistogramIO(java.lang.String)
+comment1.text=\r\n\ Takes\ the\ input\ file\ and\ initializes\ the\ instance\ variables\ to\ help\ create\ a\ histogram\ of\ the\ data\r\n\ \r\n\ @param\ Takes\ string\ representing\ the\ file\ name\r\n
+comment2.params=
+comment2.target=void\ computeFrequencies()
+comment2.text=\r\n\ Computes\ the\ frequencies\ based\ on\ ranges\ increasing\ by\ 10\ each\ time\ (representing\ buckets)\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Creates\ string\ representation\ of\ the\ HistogramIO\ object\r\n\ \r\n\ @returns\ a\ String\ representation\ of\ the\ data\ (looks\ like\ a\ histogram)\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
